@@ -6,4 +6,4 @@ The book is published in 1994 however it still influences software engineers. Af
 - Structural
 - Behavioral
 
-The book is in a C++ context but it still remains very relevant to Java programming so that I redesigned them using C# and Java.
+The book is in a C++ context but it still remains very relevant to Java programming so that I redesigned them using C# and Java. Each folder has a class named Program to start the program.
