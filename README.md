@@ -7,3 +7,6 @@ The book is published in 1994 however it still influences software engineers. Af
 - Behavioral
 
 The book is in a C++ context but it still remains very relevant to Java programming so that I redesigned them using C# and Java. Each pattern was stored in the "Codes" folder and has a class named Program to start the program.
+
+
+# **EDITINGS STILL GOING**
